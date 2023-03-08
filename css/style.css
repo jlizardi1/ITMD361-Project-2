@@ -76,7 +76,7 @@
 #resume-info{
   background-color: #FFFAF0;
   text-align: center;
-  height: 300px;
+  height: 150px;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
@@ -84,7 +84,7 @@
 }
 #skills{
   background-color: #FFFAF0;
-  text-align: center;
+  text-align:left ;
   height: 150px;
   margin-left: 200px;
   margin-right: 200px;
@@ -98,7 +98,7 @@
   height: 500px;
   width: 40%;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 10px;
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
