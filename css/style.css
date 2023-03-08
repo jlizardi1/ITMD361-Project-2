@@ -96,9 +96,9 @@
   width: 30%;
   margin-top: 30px;
   margin-left:200px;
-  margin-right: 5px;
   padding: 20px;
   border: 2px solid black;
+  position: relative;
 }
 #experience2{
   background-color: #FFFAF0;
@@ -106,10 +106,10 @@
   height: 500px;
   width: 30%;
   margin-top: 30px;
-  margin-left:5px;
   margin-right:200px;
   padding: 20px;
   border: 2px solid black;
+  position: relative;
 }
 #education-hs{
   float:left;
