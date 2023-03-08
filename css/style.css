@@ -97,6 +97,7 @@
 #row1-right{
   background-color: #FFFAF0;
   text-align: left;
+  float: left;
   height: 500px;
   width: 37%;
   margin-top: 30px;
