@@ -96,16 +96,29 @@
   padding: 20px;
   border: 2px solid black;
 }
-#education{
+#education-hs{
   background-color: #FFFAF0;
   text-align: center;
   height: 350px;
+  width: 50%;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
 }
+#education-col{
+  background-color: #FFFAF0;
+  text-align: center;
+  float: right;
+  height: 350px;
+  width: 50%;
+  
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid black;
 
 
   
