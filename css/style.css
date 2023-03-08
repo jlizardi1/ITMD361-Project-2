@@ -86,7 +86,7 @@
   background-color: #FFFAF0;
   float:left;
   text-align: right;
-  height: 500px;
+  height: auto;
   width: 37%;
   margin-top: 30px;
   margin-left:125px;
@@ -98,7 +98,7 @@
   background-color: #FFFAF0;
   text-align: left;
   float: right;
-  height: 500px;
+  height: auto;
   width: 37%;
   margin-top: 30px;
   margin-right:125px;
@@ -110,11 +110,11 @@
   float:left;
   background-color: #FFFAF0;
   text-align: left;
-  height: 350px;
+  height: auto;
   width: 37%;
   position: relative;
   margin-left: 125px;
-  margin-top: 30px;
+  margin-top: 100px;
   padding: 20px;
   border: 2px solid black;
 }
@@ -122,11 +122,11 @@
   background-color: #FFFAF0;
   text-align: left-side;
   float: right;
-  height: 350px;
+  height: auto;
   width: 37%;
   position: relative;
   margin-right: 125px;
-  margin-top: 30px;
+  margin-top: 100px;
   padding: 20px;
   border: 2px solid black;
 }
