@@ -173,7 +173,7 @@
 .container .box:hover .imgBox { 
   transform: translate(-1.5rem, -1.5em);
 }
-.container .box:hover content { 
+.container .box:hover .content { 
   transform: translate (3.5rem, 3.5rem);
 }
 .imgBox {
