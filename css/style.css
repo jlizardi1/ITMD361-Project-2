@@ -47,6 +47,13 @@
   width: 350px;
   padding: 10px;
 }
+#dope{
+  background: #5f9ea0;
+  text-align: center;
+  width: 450px;
+  border: 1px solid black;
+  
+}
 
 #sidebar ul {
   list-style-type: none;
