@@ -60,7 +60,7 @@
 /* resume */
 
 .resume { 
-  background-color: black;
+  background-color: #800000;
   color: black;
   width: 100%;
   margin: auto;
@@ -73,32 +73,36 @@
   height: 300px;
   margin-left: 200px;
   margin-right: 200px;
+  margin-top: 30px;
   padding: 20px;
 }
 #skills{
   background-color: #FFFAF0;
   text-align: center;
   height: 150px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
 }
 #experience{
   background-color: #FFFAF0;
   text-align: center;
-  height: 1000px;
-  margin-left: 100px;
-  margin-right: 100px;
+  height: 800px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
 }
 #education{
   background-color: #FFFAF0;
   text-align: center;
-  height: 300px;
-  margin-left: 100px;
-  margin-right: 100px;
+  height: 350px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
 }
