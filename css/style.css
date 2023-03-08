@@ -155,7 +155,10 @@
   object-fit: contain;
   mix-blend-mode: color-burn
 }
-
+.textwarp{
+  float: right;
+  margin: 10px;
+}
  
 
 
