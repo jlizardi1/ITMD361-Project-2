@@ -67,8 +67,8 @@
   background-color: #FFFAF0;
   text-align: center;
   height: 150px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 400px;
+  margin-right: 400px;
   margin-top: 30px;
   padding: 20px;
 }
@@ -89,7 +89,7 @@
   height: 500px;
   width: 37%;
   margin-top: 30px;
-  margin-left:200px;
+  margin-left:125px;
   padding: 20px;
   border: 2px solid black;
   position: relative;
@@ -101,7 +101,7 @@
   height: 500px;
   width: 37%;
   margin-top: 30px;
-  margin-right:200px;
+  margin-right:125px;
   padding: 20px;
   border: 2px solid black;
   position: relative;
@@ -113,7 +113,7 @@
   height: 350px;
   width: 37%;
   position: relative;
-  margin-left: 200px;
+  margin-left: 125px;
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
@@ -125,7 +125,7 @@
   height: 350px;
   width: 37%;
   position: relative;
-  margin-right: 200px;
+  margin-right: 125px;
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
@@ -136,13 +136,31 @@
   text-align: center;
   height: auto;
   width: 22%;
-  position: center;
+  float: center;
 }
 .img{
   margin-left: 2vw;
   margin-right: 2vw;
   width: 300px;
   height: 300px;
+}
+#dope{
+  background-color: #E9967A;
+  float: left;
+  text-align: left;
+  width: 33%;
+  height: auto;
+  position: relative;
+  
+}
+#tenet{
+  background-color: #E9967A;
+  float: right;
+  text-align: left;
+  width: 33%;
+  height: auto;
+  position: relative;
+  
 }
 
 
