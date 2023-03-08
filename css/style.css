@@ -97,7 +97,6 @@
 #row1-right{
   background-color: #FFFAF0;
   text-align: left;
-  float: right;
   height: 500px;
   width: 37%;
   margin-top: 30px;
@@ -146,6 +145,13 @@
   width: 300px;
   height: 300px;
  
+}
+.img3{
+  margin-left: 2vw;
+  margin-right: 2vw;
+  width: 300px;
+  height: 300px;
+  float:left;
 }
 .img2{
   margin-left: 2vw;
