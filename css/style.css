@@ -98,9 +98,9 @@
 }
 #education-hs{
   background-color: #FFFAF0;
-  text-align: center;
+  text-align: left;
   height: 350px;
-  width: 50%;
+  width: 30%;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
@@ -109,10 +109,10 @@
 }
 #education-col{
   background-color: #FFFAF0;
-  text-align: center;
+  text-align: left-side;
   float: right;
   height: 350px;
-  width: 50%;
+  width: 30%;
   
   margin-left: 200px;
   margin-right: 200px;
