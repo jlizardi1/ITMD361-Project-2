@@ -39,13 +39,13 @@
 #onpage {
   text-decoration: underline overline;
 }
-
-#sidebar {
-  position: fixed;
-  left: 0%;
-  background-color: red;
-  height: 100%;
-  width: 20%;
+*{ box-sizing: border-box;
+}
+.sidebar {
+  float: left;
+  height:250px;
+  width: 350px;
+  padding: 10px;
 }
 
 #sidebar ul {
@@ -65,5 +65,5 @@
   background-color: #000;
 }
 .page3text {
-  text-align: left 20%;
+  
 }
