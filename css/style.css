@@ -87,9 +87,9 @@
 #experience1{
   background-color: #FFFAF0;
   float:left;
-  text-align: center;
+  text-align: left;
   height: 500px;
-  width: 30%;
+  width: 40%;
   margin-top: 30px;
   margin-left:200px;
   padding: 20px;
@@ -98,10 +98,10 @@
 }
 #experience2{
   background-color: #FFFAF0;
-  text-align: center;
+  text-align: left;
   float: right;
   height: 500px;
-  width: 30%;
+  width: 40%;
   margin-top: 30px;
   margin-right:200px;
   padding: 20px;
@@ -113,7 +113,7 @@
   background-color: #FFFAF0;
   text-align: left;
   height: 350px;
-  width: 30%;
+  width: 50%;
   position: relative;
   margin-left: 200px;
   margin-top: 30px;
@@ -125,7 +125,7 @@
   text-align: left-side;
   float: right;
   height: 350px;
-  width: 30%;
+  width: 50%;
   position: relative;
   margin-right: 200px;
   margin-top: 30px;
