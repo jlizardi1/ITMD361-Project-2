@@ -135,7 +135,14 @@
   background-color: #B0C4DE;
   text-align: center;
   height: auto;
+  width: 22%;
   position: center;
+}
+.img{
+  margin-left: 2vw;
+  margin-right: 2vw;
+  width: 300px;
+  height: 300px;
 }
 
 
