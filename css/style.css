@@ -75,9 +75,9 @@
 #skills{
   background-color: #FFFAF0;
   text-align:left ;
-  height: 150px;
-  margin-left: 200px;
-  margin-right: 200px;
+  height: 200px;
+  margin-left: 250px;
+  margin-right: 250px;
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
@@ -129,6 +129,16 @@
   margin-top: 30px;
   padding: 20px;
   border: 2px solid black;
+}
+/* page 3 */
+#movies{
+  background-color: #B0C4DE;
+  text-align: center;
+  height: auto;
+  position: center;
+}
+
+
 
 
   
