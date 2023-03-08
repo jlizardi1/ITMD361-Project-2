@@ -56,7 +56,7 @@
   margin: 0 10px 30px;
   
 }
-/* resume */
+/* resume and page 3 */
 
 .resume { 
   background-color: #800000;
@@ -82,7 +82,7 @@
   padding: 20px;
   border: 2px solid black;
 }
-#experience1{
+#row1-left{
   background-color: #FFFAF0;
   float:left;
   text-align: left;
@@ -94,7 +94,7 @@
   border: 2px solid black;
   position: relative;
 }
-#experience2{
+#row1-right{
   background-color: #FFFAF0;
   text-align: left;
   float: right;
@@ -106,7 +106,7 @@
   border: 2px solid black;
   position: relative;
 }
-#education-hs{
+#row2-left{
   float:left;
   background-color: #FFFAF0;
   text-align: left;
@@ -118,7 +118,7 @@
   padding: 20px;
   border: 2px solid black;
 }
-#education-col{
+#row2-right{
   background-color: #FFFAF0;
   text-align: left-side;
   float: right;
@@ -155,33 +155,7 @@
   object-fit: contain;
   mix-blend-mode: color-burn
 }
-#moonlight,
-#dope{
-  background-color: #E9967A;
-  float:left;
-  text-align: left;
-  height: 350px;
-  width: 37%;
-  position: relative;
-  margin-left: 125px;
-  margin-top: 30px;
-  padding: 20px;
-  border: 2px solid black;
-  
-}
-#1917,
-#tenet{
-  background-color: #E9967A;
-  text-align: left-side;
-  float: right;
-  height: 350px;
-  width: 37%;
-  position: relative;
-  margin-right: 125px;
-  margin-top: 30px;
-  padding: 20px;
-  border: 2px solid black;
-}  
+
  
 
 
