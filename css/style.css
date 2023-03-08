@@ -136,7 +136,8 @@
   text-align: center;
   height: auto;
   width: 22%;
-  float: center;
+  float: right;
+  margin-right: 400;
 }
 .img{
   margin-left: 2vw;
