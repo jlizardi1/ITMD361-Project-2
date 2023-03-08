@@ -46,13 +46,8 @@
   height: 400px;
   padding: 10px;
 }
-.left{
-  float: left;
 
-}
-.right{
-  float: right;
-}
+
 .dope{
   background: #5f9ea0;
   text-align: center;
@@ -91,6 +86,7 @@
 }
 #experience1{
   background-color: #FFFAF0;
+  float:left;
   text-align: center;
   height: 500px;
   width: 30%;
@@ -103,6 +99,7 @@
 #experience2{
   background-color: #FFFAF0;
   text-align: center;
+  float: right;
   height: 500px;
   width: 30%;
   margin-top: 30px;
