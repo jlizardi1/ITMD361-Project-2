@@ -89,12 +89,25 @@
   padding: 20px;
   border: 2px solid black;
 }
-#experience{
+#experience1{
   background-color: #FFFAF0;
   text-align: center;
   height: 500px;
-  width: 40%;
+  width: 30%;
   margin-top: 30px;
+  margin-left:200px;
+  margin-right: 5px;
+  padding: 20px;
+  border: 2px solid black;
+}
+#experience2{
+  background-color: #FFFAF0;
+  text-align: center;
+  height: 500px;
+  width: 30%;
+  margin-top: 30px;
+  margin-left:5px;
+  margin-right:200px;
   padding: 20px;
   border: 2px solid black;
 }
