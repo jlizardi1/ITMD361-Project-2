@@ -97,10 +97,12 @@
   border: 2px solid black;
 }
 #education-hs{
+  float:left;
   background-color: #FFFAF0;
   text-align: left;
   height: 350px;
   width: 30%;
+  position: relative;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
@@ -113,7 +115,7 @@
   float: right;
   height: 350px;
   width: 30%;
-  
+  position: relative;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
