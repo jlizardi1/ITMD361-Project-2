@@ -43,9 +43,11 @@
 }
 .sidebar {
   float: left;
-  height: 100%;
-  width: 350px;
+  height: 400px;
   padding: 10px;
+}
+.left{
+  width:22%
 }
 #dope{
   background: #5f9ea0;
