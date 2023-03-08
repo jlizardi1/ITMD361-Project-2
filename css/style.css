@@ -158,21 +158,29 @@
 #moonlight,
 #dope{
   background-color: #E9967A;
-  float: left;
+  float:left;
   text-align: left;
-  width: 33%;
-  height: auto;
+  height: 350px;
+  width: 37%;
   position: relative;
+  margin-left: 125px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid black;
   
 }
 #1917,
 #tenet{
   background-color: #E9967A;
+  text-align: left-side;
   float: right;
-  text-align: left;
-  width: 33%;
-  height: auto;
+  height: 350px;
+  width: 37%;
   position: relative;
+  margin-right: 125px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid black;
 }  
  
 
