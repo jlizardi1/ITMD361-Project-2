@@ -48,17 +48,12 @@
 }
 
 
-.dope{
-  background: #5f9ea0;
-  text-align: center;
-  width: 450px;
-  border: 1px solid black;
-  margin: 0 10px 30px;
+
   
-}
+
 /* resume and page 3 */
 
-.resume { 
+.pagestandard { 
   background-color: #800000;
   color: black;
   margin: auto;
@@ -85,7 +80,7 @@
 #row1-left{
   background-color: #FFFAF0;
   float:left;
-  text-align: right;
+  text-align: left;
   height: auto;
   width: 37%;
   margin-top: 30px;
@@ -134,7 +129,7 @@
 #movies{
   background-color: #B0C4DE;
   text-align: center;
-  height: 150px;
+  height: 170px;
   margin-left: 400px;
   margin-right: 400px;
   margin-top: 30px;
@@ -165,6 +160,7 @@
   float: right;
   margin: 10px;
 }
+
  
 
 
