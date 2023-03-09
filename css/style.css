@@ -175,8 +175,7 @@ h1{
   height: 320px;
   padding:5px;
   margin-right: 5px;
-  
-
+  float:left;
 }
 #cat1{
   background-color: azure;
@@ -214,14 +213,14 @@ h1{
 }
 #section2{
   text-align: left;
-  float: center;
+  float: left;
   width: 400px;
   text-align: left;
   margin: 0 10px 30px;
 }
 #section3{
   text-align: left;
-  float: right;
+  float: left;
   width: 400px;
   text-align: left;
   margin: 0 10px 30px;
