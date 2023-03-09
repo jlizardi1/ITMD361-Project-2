@@ -41,11 +41,13 @@
 }
 *{ box-sizing: border-box;
 }
-.sidebar {
-  float: left;
-  height: 400px;
-  padding: 10px;
+#Heading{
+  transition: transform 500ms ease;
 }
+#Heading:hover{
+  transform: scale(1.8);
+}
+
 
 
 
@@ -168,72 +170,61 @@ h1{
   font-family: 'Shantell Sans', cursive;
 }
 /* home page */
-#cat1{
-  background-color: azure;
+.box{
   width: 350px;
   height: 320px;
-  
-  float: left;
   padding:5px;
+  
 
+}
+#cat1{
+  background-color: azure;
 }
 #cat2{
   background-color:#E9967A;
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:5px;
 }
 #cat3{
   background-color: rgb(248, 255, 240);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:5px;
 }
 #cat4{
   background-color: rgb(23, 239, 239);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
 #cat5{
   background-color: rgb(145, 11, 241);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
 #cat6{
   background-color: rgb(190, 153, 19);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
 #cat7{
   background-color: rgb(177, 157, 97);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
 #cat8{
   background-color: rgb(43, 6, 231);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
 #cat9{
   background-color: rgb(94, 112, 62);
-  width: 350px;
-  height: 320px;
-  float: left;
-  padding:0px;
 }
-
+#section1{
+  text-align: left;
+  float: left;
+  width: 400px;
+  text-align: left;
+  margin: 0 10px 30px;
+}
+#section2{
+  text-align: left;
+  float: left;
+  width: 400px;
+  text-align: left;
+  margin: 0 10px 30px;
+}
+#section3{
+  text-align: left;
+  float: left;
+  width: 400px;
+  text-align: left;
+  margin: 0 10px 30px;
+}
 
 
 
