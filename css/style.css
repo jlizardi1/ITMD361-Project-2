@@ -1,3 +1,4 @@
+/* nav bar*/
 #main-navbar {
   background-color: #f0f8ff;
   overflow: hidden;
@@ -41,17 +42,13 @@
 }
 *{ box-sizing: border-box;
 }
+/* headings */
 #Heading{
   transition: transform 500ms ease;
 }
 #Heading:hover{
   transform: scale(1.8);
 }
-
-
-
-
-  
 
 /* resume and page 3 */
 
@@ -79,6 +76,7 @@
   padding: 20px;
   border: 2px solid black;
 }
+/* row layout*/
 #row1-left{
   background-color: #FFFAF0;
   float:left;
@@ -223,6 +221,7 @@ h1{
   width: 400px;
   position: relative;
 }
+/* major page*/
 #video{
   margin-top: 1000px;
   display: flex;
