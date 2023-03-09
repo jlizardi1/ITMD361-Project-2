@@ -206,7 +206,7 @@ h1{
 }
 #section1{
   text-align: left;
-  float: 300px;
+  float: leftpx;
   width: 400px;
   position: relative;
 }
